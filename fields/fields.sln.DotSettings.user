@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=71df5f3f_002Dba4d_002D4370_002Dbec9_002Dbcc78071867c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LoginUiTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::9545A1E1-18A7-4C9A-81D8-A3FB28E0BA7A::net8.0::UiTests.tests.LoginUiTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::8CE1893F-0D11-4AC2-BD92-61B48BCE9C75::net8.0::fields.tests.login.LoginApiTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;Namespace&gt;fields.tests.passwordrecovery&lt;/Namespace&gt;&#xD;
+      &lt;Project Location="C:\Users\arts1\Desktop\homework\fields\API-tests" Presentation="&amp;lt;API-tests&amp;gt;" /&gt;&#xD;
+    &lt;/And&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
