@@ -1,7 +1,0 @@
-C:\Users\arts1\Desktop\homework\fields\UI-tests\obj\Debug\net8.0\UI-tests.csproj.AssemblyReference.cache
-C:\Users\arts1\Desktop\homework\fields\UI-tests\obj\Debug\net8.0\UI-tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\arts1\Desktop\homework\fields\UI-tests\obj\Debug\net8.0\UI-tests.gentestingplatformentrypointinputcache.cache
-C:\Users\arts1\Desktop\homework\fields\UI-tests\obj\Debug\net8.0\UI-tests.genautoregisteredextensionsinputcache.cache
-C:\Users\arts1\Desktop\homework\fields\UI-tests\obj\Debug\net8.0\UI-tests.AssemblyInfoInputs.cache
-C:\Users\arts1\Desktop\homework\fields\UI-tests\obj\Debug\net8.0\UI-tests.AssemblyInfo.cs
-C:\Users\arts1\Desktop\homework\fields\UI-tests\obj\Debug\net8.0\UI-tests.csproj.CoreCompileInputs.cache
